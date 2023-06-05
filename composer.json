@@ -1,0 +1,15 @@
+{
+  "name": "myvendor/my-package",
+  "description": "My awesome project that uses the Google Sheets API",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dima_",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "google/apiclient": "^2.0"
+  }
+}
